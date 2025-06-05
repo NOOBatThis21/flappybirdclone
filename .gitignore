@@ -1,0 +1,20 @@
+
+---
+
+## 2. `.gitignore`
+
+```gitignore
+# macOS/Linux system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Node modules (if you ever add dependencies)
+node_modules/
+
+# IDE config (e.g., VS Code folder)
+.vscode/
+
+# Logs or temporary files
+*.log

@@ -1,0 +1,41 @@
+/* Reset margins and paddings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Use a soft background color */
+body {
+  background-color: #70c5ce; /* Light blue sky */
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* Center the game container vertically */
+#game-container {
+  position: relative;
+  text-align: center;
+}
+
+/* Style the canvas with a thin border and subtle shadow */
+#game-canvas {
+  background-color: #4ec0ca; /* Slightly darker sky for canvas */
+  border: 2px solid #000;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Score display positioned above the canvas */
+#score-display {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: #fff;
+  font-size: 24px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  user-select: none;
+}
