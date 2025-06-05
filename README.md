@@ -29,3 +29,4 @@ This repository holds a self-contained Flappy Bird clone built purely with HTML5
    ```bash
    git clone https://github.com/NOOBatThis21/flappybirdclone.git
    cd flappybirdclone
+# flappybirdclone
