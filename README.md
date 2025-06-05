@@ -1,6 +1,6 @@
 # Flappy Bird Clone
 
-This repository holds a self-contained Flappy Bird clone built purely with HTML5 Canvas and JavaScript. You can import this folder into GitHub as a new repo and deploy it immediately (for example, via GitHub Pages).
+This repository holds a self-contained Flappy Bird clone built purely with HTML5 Canvas and JavaScript. 
 
 ## Contents
 
@@ -16,12 +16,6 @@ This repository holds a self-contained Flappy Bird clone built purely with HTML5
   Ignores common system or IDE files (for example, macOS `.DS_Store`).
 - `LICENSE`  
   MIT License.
-
-## Prerequisites
-
-- A modern web browser with HTML5 Canvas and ES6 JavaScript support (e.g., Chrome, Firefox, Edge).
-- Git installed on your computer, if you plan to push to GitHub from the command line.
-- (Optional) A GitHub account to host this repo and enable GitHub Pages.
 
 ## Setup and Run Locally
 
